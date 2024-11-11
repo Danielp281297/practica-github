@@ -1,0 +1,2 @@
+Esto es un archivo de escritura creado para poder enviar los cambios al repositorio de
+    forma remota
